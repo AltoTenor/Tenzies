@@ -1,6 +1,5 @@
-# Tenzies - The Dice Rolling Game
+# <img src="favico.jpg" alt="drawing" width="20"/> Tenzies - The Dice Rolling Game
 
-![Tenzies Logo](tenzies_logo.png)
 
 Tenzies is an exciting dice rolling game where the objective is to roll the dice until all of them show the same value. The game provides a simple and fun way to test your luck and see if you can achieve the perfect roll!
 
