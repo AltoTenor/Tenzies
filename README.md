@@ -49,7 +49,7 @@ We welcome contributions to make Tenzies even better! If you have any ideas, bug
 
 ## License
 
-Tenzies is licensed under the MIT License. See [LICENSE](LICENSE) for more details.
+Tenzies is licensed under the GPL V3 License. See [LICENSE](LICENSE.md) for more details.
 
 Enjoy the game, and may the dice be in your favor! 🎲🎲🎲
 
