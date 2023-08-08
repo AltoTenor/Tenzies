@@ -5,7 +5,7 @@ Tenzies is an exciting dice rolling game where the objective is to roll the dice
 
 ## How to Play
 
-1. Open the Tenzies website in your browser.
+1. Open the Tenzies website in your browser - https://tenzies-aritro.web.app
 
 2. You will be presented with a screen containing ten dice.
 
